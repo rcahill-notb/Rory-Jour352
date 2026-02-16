@@ -1,0 +1,55 @@
+<html lang="en-US">
+    <head>
+        <title>Rory Resume</title>
+    </head>
+    <body>
+        <!--"I built this myself!"-->
+        <h1>Rory Cahill</h1>
+        <p><strong>Student, Philip Merrill College of Journalism, University of Maryland</strong></p>
+        <img src="IMG_20251101_233725697.jpg" alt="a photo of me" width="300" />
+        <div id="contact">
+            <a href="mailto:rcahill@terpmail.umd.edu">rcahill@terpmail.umd.edu</a><br />
+            <a href="https://www.linkedin.com/in/rorycahill2112" target="_blank">LinkedIn </a><br />
+            <a href="https://github.com/rcahill-notb/Rory-Jour352" target="_blank">GitHub</a>
+        </div>
+        <h2>Experience</h2>
+        <h3>Staff writer</h3>
+        <h4>Stories Beneath the Shell, University of Maryland</h4>
+        <h5>Fall 2025 semester</h5>
+        <p>
+            I wrote news and features articles each week for this student news website at UMD. Each article had a
+            minimum of three quoted sources.
+        </p>
+        <h3>Usher/Ticket Scanner/Crowd Control</h3>
+        <h4>Merriweather Post Pavilion</h4>
+        <h5>May 2024-present</h5>
+        <h3>Summer Intern, MotorWeek</h3>
+        <h4>Maryland Public Television (PBS)</h4>
+        <h5>May-July 2023</h5>
+        <p>
+            I wrote daily news articles about the automotive industry for the website of the national automotive TV show
+            MotorWeek, and assisted with film shoots on and off-site.
+        </p>
+        <h3>Zoo Teen Volunteer</h3>
+        <h4>Maryland Zoo in Baltimore</h4>
+        <h5>May 2021-July 2022</h5>
+        <p>
+            I was chosen for the selective Zoo Teen volunteer program at the Maryland Zoo in Baltimore, where I grew
+            food for zoo animals in an on-site garden, and assisted guests at zoo events.
+        </p>
+
+        <h2>Education</h2>
+        <ul>
+            <li>BA, Journalism, University of Maryland, College Park, degree expected 2027</li>
+            <li>Semester exchange, College of Science, University College Dublin, Spring 2025</li>
+            <li>BA, Communication Arts, Hood College, Frederick, MD, transferred out after fall 2023</li>
+        </ul>
+        <h2>Skills</h2>
+        <ul>
+            <li>Ability to use Microsoft and Google suites</li>
+            <li>Ability to edit video with Adobe Premiere Pro</li>
+            <li>Ability to organize data with code</li>
+        </ul>
+        <p><a href="#contact">Contact me</a></p>
+    </body>
+</html>
