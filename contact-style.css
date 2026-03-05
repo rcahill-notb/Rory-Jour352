@@ -1,0 +1,41 @@
+/*
+MY COLOR PALETTE
+Graphite - #363635
+Ebony - #595A4A
+Green-Yellow - #B0FE76
+Light Green - #81E979
+Muted Teal - #8FBB99
+*/
+
+body {
+    background-color: #8fbb99;
+    text-align: center;
+}
+
+button {
+    background-color: #b0fe76;
+    color: #363635;
+    width: 200px;
+    padding: 10px;
+    margin: 50px;
+    border: none;
+    border-radius: 8px;
+}
+
+button:hover {
+    color: #81e979;
+}
+
+h1 {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 650;
+    font-style: normal;
+}
+
+h2 {
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
