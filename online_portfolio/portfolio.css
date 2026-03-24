@@ -1,0 +1,70 @@
+/*Color palette: #00c4cc (vivid cyan) #1fff93(seafoam)#000000(black)*/
+
+body {
+    background-color: #000000;
+}
+#headshot {
+    width: 100%;
+}
+h1 {
+    font-family: "Playfair Display", sans-serif;
+    letter-spacing: normal;
+    color: #00c4cc;
+    margin: 10px;
+}
+
+h2 {
+    font-family: "Dancing Script", cursive;
+    letter-spacing: normal;
+    color: #1fff93;
+    margin: 10px;
+}
+h3 {
+    font-family: "Playfair Display", sans-serif;
+    color: #00c4cc;
+    margin: 10px;
+}
+
+h4 {
+    font-family: "Playfair Display", sans-serif;
+    color: #00c4cc;
+    margin: 10px;
+}
+
+h5 {
+    font-family: "Playfair Display", sans-serif;
+    color: #00c4cc;
+    margin: 10px;
+}
+
+h6 {
+    font-family: "Playfair Display", sans-serif;
+    color: #00c4cc;
+    margin: 10px;
+}
+
+h7 {
+    font-family: "Playfair Display", sans-serif;
+    color: #00c4cc;
+    margin: 10px;
+}
+
+h8 {
+    font-family: "Playfair Display", sans-serif;
+    color: #00c4cc;
+    margin: 10px;
+}
+
+h9 {
+    font-family: "Playfair Display", sans-serif;
+    color: #00c4cc;
+    margin: 10px;
+}
+
+button {
+    border-color: #1fff93;
+    border-radius: 10px;
+    color: #1fff93;
+    background-color: #000000;
+    margin: 10px;
+}
