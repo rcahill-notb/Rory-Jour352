@@ -1,0 +1,60 @@
+@media screen {
+    h1 {
+        font-family: "Manufacturing Consent", sans-serif;
+        font-size: xx-large;
+        font-weight: 400;
+        letter-spacing: -0.04px;
+        color: darkgreen;
+    }
+
+    img {
+        width: 100%;
+    }
+
+    h2 {
+        font-family: sans-serif;
+        font-weight: 600;
+        font-size: large;
+        letter-spacing: -0.04px;
+        color: darkred;
+    }
+    .byline {
+        font-weight: 800;
+    }
+
+    .date {
+        font-weight: 800;
+    }
+    .caption {
+        font-size: x-small;
+    }
+
+    .manufacturing-consent-regular {
+        font-family: "Manufacturing Consent", system-ui;
+        font-weight: 400;
+        font-style: normal;
+    }
+
+    .background {
+        color: aquamarine;
+    }
+
+    #content {
+        width: 100%;
+        margin: auto;
+    }
+    .quote {
+        width: 100%;
+        margin: none;
+        font-weight: bold;
+        font-size: 30px;
+        color: darkgreen;
+    }
+}
+
+@media (min-width: 576px) {
+    #content {
+        width: 80%;
+        margin: auto;
+    }
+}
